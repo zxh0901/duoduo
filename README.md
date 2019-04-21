@@ -15,3 +15,6 @@ npm install  --运行项目前请先运行该命令
 
 # 项目运行
 npm run dev
+
+# 数据库文件
+数据库数据请查看sql文件夹的duoduo.sql文件
